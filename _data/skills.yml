@@ -1,8 +1,18 @@
 languages:
   - item: Python
   - item: C#
-
-
+  
+platforms:
+  - item: Unity 3D
+  - item: Netlogo
+  - item: Anaconda
+  
+Mathematics:
+  - item: linear algebra
+  - item: calculus
+  - item: statistics
+  - item: geometry
+  
 web:
   - item: JavaScript
   - item: d3
@@ -10,20 +20,10 @@ web:
   - item: CSS
   - item: Bootstrap
   
-
-platforms:
-  - item: Unity 3D
-  - item: Netlogo
-  
-
-tools:
-  - item: Bash
-  - item: Git & Github
-  
-
-Mathematics:
-  - item: linear algebra
-  - item: calculus
-  - item: statistics
-  - item: geometry
- 
+libraries:
+  - item: Scipy
+  - item: Pandas
+  - item: Numpy
+  - item: Keras
+  - item: pytorch
+  - item: Vuforia
