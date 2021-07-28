@@ -12,26 +12,34 @@
         </ul>
       </div>
       <div class="skillz__category">
-        <div class="skillz__category__label">Frameworks</div>
+        <div class="skillz__category__label">Platforms</div>
         <ul>
-          {% for framework in site.data.skills.frameworks %}
-          <li class="skillz__category__item">{{framework.item}}</li>
+          {% for platform in site.data.skills.platforms %}
+          <li class="skillz__category__item">{{platform.item}}</li>
           {% endfor %}
         </ul>
       </div>
       <div class="skillz__category">
-        <div class="skillz__category__label">Tools</div>
+        <div class="skillz__category__label">Mathematics</div>
         <ul>
-          {% for tool in site.data.skills.tools %}
-          <li class="skillz__category__item">{{tool.item}}</li>
+          {% for math in site.data.skills.mathematics %}
+          <li class="skillz__category__item">{{math.item}}</li>
           {% endfor %}
         </ul>
       </div>
       <div class="skillz__category">
-        <div class="skillz__category__label">Design</div>
+        <div class="skillz__category__label">Web</div>
         <ul>
-          {% for thing in site.data.skills.design %}
-          <li class="skillz__category__item">{{thing.item}}</li>
+          {% for thing in site.data.skills.web %}
+          <li class="skillz__category__item">{{thing.web}}</li>
+          {% endfor %}
+        </ul>
+      </div>
+      <div class="skillz__category">
+        <div class="skillz__category__label">Libraries</div>
+        <ul>
+          {% for lib in site.data.skills.libraries %}
+          <li class="skillz__category__item">{{lib.item}}</li>
           {% endfor %}
         </ul>
       </div>
