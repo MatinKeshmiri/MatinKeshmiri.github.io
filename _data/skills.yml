@@ -7,7 +7,7 @@ platforms:
   - item: Netlogo
   - item: Anaconda
   
-Mathematics:
+mathematics:
   - item: linear algebra
   - item: calculus
   - item: statistics
