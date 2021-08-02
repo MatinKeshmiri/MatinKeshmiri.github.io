@@ -8,10 +8,10 @@ platforms:
   - item: Anaconda
   
 mathematics:
-  - item: linear algebra
-  - item: calculus
-  - item: statistics
-  - item: geometry
+  - item: Linear algebra
+  - item: Calculus
+  - item: Statistics
+  - item: Geometry
   
 web:
   - item: JavaScript
@@ -25,5 +25,5 @@ libraries:
   - item: Pandas
   - item: Numpy
   - item: Keras
-  - item: pytorch
+  - item: Pytorch
   - item: Vuforia
