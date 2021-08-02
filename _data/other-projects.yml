@@ -3,6 +3,7 @@
   code: https://github.com/MatinKeshmiri/SuperMarioGame.git
   description: garbage gathering vertion of Super Mario game created during my University education.
   used:
+    - thing: Unity
     - thing: C#
     - thing: Classic ASP
     - thing: Shader lab
@@ -24,6 +25,7 @@
   code: 
   description: Final project for my Computer Graphic and Augmented Reality course at Unige. A children book that allows users to interact with a magical 3d Augmented screan of their book pages.
   used:
+    - thing: Unity
     - thing: C#
     - thing: Vuforia
     - thing: Classic ASP
