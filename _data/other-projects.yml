@@ -35,7 +35,6 @@
 - name: Simulation of find destination
   url: 
   code: 
-  description: Final project for Multi-Agent Systems course at Unige that simulates a trip of some adventurers in an interactive environment and examine the impact of various
-  factors on their success or failure in reaching their destination.
+  description: Final project for Multi-Agent Systems course at Unige that simulates a trip of some adventurers in an interactive environment and examine the impact of various factors on their success or failure in reaching their destination.
   used:
     - thing: Netlogo
