@@ -1,3 +1,12 @@
+- name: XR professional training app by Unity for Android and iOS devices
+  url: https://drive.google.com/file/d/1K7KDkFUdYxRA4k9ZXn3RuM8RDuXSnrAi/view?usp=sharing
+  description: Practical part of my thesis as an internship in ETT
+  used:
+    - thing: Unity
+    - thing: C#
+    - thing: Classic ASP
+    - thing: Shader lab
+
 - name: Platform game by Unity for mobile and desktop devices
   url: https://github.com/MatinKeshmiri/SuperMarioGame.git
   code: https://github.com/MatinKeshmiri/SuperMarioGame.git
