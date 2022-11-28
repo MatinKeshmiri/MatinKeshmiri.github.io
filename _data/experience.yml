@@ -1,32 +1,45 @@
+- company: Anima Res
+  url: https://animares.com/
+  location: Bonn, Germany
+  time: Sep. 2022 - Present
+  position: Unity developer (AR/VR/XR)
+
 - company: ETT
-  time: Oct 2021 - Present
   url: https://ettsolutions.com/
+  location: Genova, Italy
+  time: Oct. 2021 - Aug. 2022
   position: Unity developer (AR/VR)
 
 - company: TOB
-  time: Feb 2018 - Sep 2019
+  location: Tehran, Iran
+  time: Feb. 2018 - Sep. 2019
   position: Data Analyst
 
 - company: Sisal
-  time: Sep 2016 - Feb 2018
+  location: Tehran, Iran
+  time: Sep. 2016 - Feb. 2018
   position: Data Analyst
 
 - company: Saraye Danesh school
-  time: Sep 2015 - Sep 2016
+  location: Tehran, Iran
+  time: Sep. 2015 - Sep. 2016
   position: Teacher
 
 - company: Soore University
   url: http://soore.ac.ir/
-  time: Sep 2014 - Sep 2015
+  location: Tehran, Iran
+  time: Sep. 2014 - Sep. 2015
   position: Teacher Assistant
 
 - company: Payame Noor University
   url: http://teh-damavand.pnu.ac.ir/
-  time: Sep 2014 - Sep 2015
+  location: Damavand, Iran
+  time: Sep. 2014 - Sep. 2015
   position: Teacher of Mathematics
 
 - company: FRS Institute of higher education
   url: http://frs.ac.ir/
-  time: Sep 2014 - Sep 2015
+  location: Saveh, Iran
+  time: Sep. 2014 - Sep. 2015
   position: Teacher of C# programming
 
