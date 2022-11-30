@@ -1,5 +1,5 @@
 - name: XR professional training app by Unity for Android and iOS devices
-  url: https://drive.google.com/file/d/1K7KDkFUdYxRA4k9ZXn3RuM8RDuXSnrAi/view?usp=sharing
+  url: https://drive.google.com/file/d/1ne_ecIUynqGJUfav7hAY_q5MwcJ_yn_x/view?usp=share_link
   description: Practical part of my thesis as an internship in ETT
   used:
     - thing: Unity
@@ -8,8 +8,7 @@
     - thing: Shader lab
 
 - name: Platform game by Unity for mobile and desktop devices
-  url: https://github.com/MatinKeshmiri/SuperMarioGame.git
-  code: https://github.com/MatinKeshmiri/SuperMarioGame.git
+  url: http://matinkeshmiri.com/SuperMarioGame.git
   description: garbage gathering vertion of Super Mario game created during my University education.
   used:
     - thing: Unity
@@ -19,7 +18,6 @@
 
 - name: Advanced interactive data visualisation web page
   url: http://matinkeshmiri.com/Africa-Migrants-Incomes/
-  code: https://github.com/MatinKeshmiri/Africa-Migrants-Incomes.git
   description: Visualized Data Related to the migration from Africa to Italy and Europe
   used:
     - thing: Javascript
