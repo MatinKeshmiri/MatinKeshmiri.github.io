@@ -8,7 +8,7 @@
     - thing: Shader lab
 
 - name: Platform game by Unity for mobile and desktop devices
-  url: http://matinkeshmiri.com/SuperMarioGame.git
+  url: https://github.com/MatinKeshmiri/SuperMarioGame.git
   description: garbage gathering vertion of Super Mario game created during my University education.
   used:
     - thing: Unity
